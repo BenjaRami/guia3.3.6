@@ -29,20 +29,22 @@ El proyecto demuestra integración API, manejo de token, uso de fetch, manejo de
 ---
 
 ## 📡 Endpoints consumidos
-POST https://reqres.in/api/login
 
+### 🔐 Login  
+POST https://reqres.in/api/login
 {
-"email": "eve.holt@reqres.in
-",
+"email": "eve.holt@reqres.in",
 "password": "cityslicka"
 }
 
+shell
+Copiar código
 
 ### 👥 Usuarios  
-
-
 GET https://reqres.in/api/users?page=2
 
+yaml
+Copiar código
 
 ---
 
@@ -54,12 +56,11 @@ GET https://reqres.in/api/users?page=2
 ## ▶ Cómo ejecutar el proyecto localmente
 
 ### 1. Clonar el repositorio
-
-
 git clone https://github.com/BenjaRami/guia3.3.6.git
-
 cd guia3.3.6
 
+yaml
+Copiar código
 
 ### 2. Abrir con Live Server  
 Recomendado:
@@ -83,14 +84,14 @@ https://BenjaRami.github.io/guia3.3.6/
 
 ## 📁 Estructura del proyecto
 
-
-
 guia3.3.6/
 │── index.html
 │── app.js
 │── styles.css
 └── README.md
 
+yaml
+Copiar código
 
 ---
 
