@@ -99,6 +99,4 @@ Copiar código
 Benjamín Ramírez Garrido  
 Duoc UC – Servicios Digitales / Desarrollo de Aplicaciones  
 2025
-
-
-### 🔐 Login  
+  
